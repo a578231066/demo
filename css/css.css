@@ -21,7 +21,7 @@ header .top{ width: 100%; height: 50px; background: #E72C21; color: #fff; text-a
 
 /********************** touch整体布局样式,非特殊情况,请勿修改 **************************/
 /* 整体 */
-.box-163css{ width:100%; position:relative; height:1514px; border:1px solid #f00; margin-bottom:20px; float:left;}
+.box-163css{ width:100%; position:relative; height:1514px; margin-bottom:20px; float:left;}
 
 /*内容*/
 .swipe{width:100%; float:left; visibility: visible; position: relative; height:1514px;}
