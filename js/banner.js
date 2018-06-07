@@ -13,7 +13,7 @@ $(function(){
     for(var i=1; i<=num; i++){
         $(".box_tab").append("<a href='javascript:(void)'>"+" "+"</a>");
     }   
-
+ 
 //初始化
     $(".box_img li").eq(0).show();
     $(".box_tab a").eq(0).addClass("active");
