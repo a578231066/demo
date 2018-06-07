@@ -9,7 +9,7 @@
             pauseOnHover: true,
             swipeNavigation: true
         }, options);
-
+ 
 
 //        Variables
         var intervals = [],
