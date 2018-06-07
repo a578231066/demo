@@ -6,6 +6,12 @@
 
 #### 运用swiper实现手机端效果
 
+<<<<<<< HEAD
 #### 页面截图
 
 <img src="images/github/GIF.gif" />
+=======
+#### 页面截图    
+   
+<img src="images/github/GIF.gif" />
+>>>>>>> cafbca22091a2c35cba7fb746a3105eac359fc9e
